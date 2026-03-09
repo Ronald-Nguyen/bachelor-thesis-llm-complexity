@@ -14,7 +14,7 @@ The main goal is to evaluate how reliably different LLMs can apply refactorings 
 
 - **`prompts_apex-dml-mocking/`**  
   Refactoring task prompts for the Apex DML Mocking project, including:
-  - `coc_reduktion.txt` – Cyclomatic complexity reduction
+  - `coc_reduktion.txt` – Cognitive complexity reduction
   - `getter_setter.txt` – Generate getters/setters
   - `guard_clauses.txt` – Extract guard clauses
   - `inline_variable.txt` – Inline variable refactoring
