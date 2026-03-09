@@ -1,4 +1,4 @@
-# LLM-Based Code Refactoring Benchmark (Bachelor Thesis)
+# Evaluation of LLM-generated code-transformations in real software-systems of different complexity  (Bachelor Thesis)
 
 This repository contains the code and artifacts used for my bachelor thesis on **LLM-based code refactoring**. It includes the refactoring task definitions, experiment scripts, and the evaluation/validation pipeline used to measure success rates across different projects and programming languages.
 
