@@ -61,14 +61,9 @@ pip install -r requirements.txt
 ### 1. Configure Project Paths
 **Important:** Before running experiments, you must edit the path variables in the refactoring scripts to point to your local project directories.
 
-**In `refactoring_apex.py`:**
+**In both `refactoring_apex.py` and `refactoring_python.py`:**
 ```python
-PATH = 'force-app'  # Edit this to point to your Apex project directory
-```
-
-**In `refactoring_python.py`:**
-```python
-PATH = 'src/pathlib2'  # Edit this to point to your Python project directory
+PATH = 'project-path'  # Edit this to point to your project directory
 ```
 
 **In `run_refactored_pytest.py`:**
