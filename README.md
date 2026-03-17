@@ -91,12 +91,12 @@ Configure environment variables for the LLM APIs you plan to use:
 # Windows (PowerShell)
 $env:GROQ_API_KEY = "your-groq-api-key"
 $env:GEMINI_API_KEY = "your-gemini-api-key"
-$env:MISTRAL_API_KEY2 = "your-mistral-api-key"
+$env:MISTRAL_API_KEY = "your-mistral-api-key"
 
 # Linux/macOS
 export GROQ_API_KEY="your-groq-api-key"
 export GEMINI_API_KEY="your-gemini-api-key"
-export MISTRAL_API_KEY2="your-mistral-api-key"
+export MISTRAL_API_KEY="your-mistral-api-key"
 ```
 
 ### 3. Set Up Test Projects
