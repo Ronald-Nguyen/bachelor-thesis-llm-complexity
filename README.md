@@ -242,7 +242,6 @@ The `statistical_tests/` directory contains the files used for the thesis-level 
 - Exact results may vary due to LLM non-determinism.
 - If you use temperature > 0 or non-fixed seeds, reruns can differ.
 - Environment differences (dependencies, test runtimes, Apex org setup) can affect outcomes.
-- Statistical analysis results can also vary if the cleaned dataset or installed R package versions differ.
 
 ## License
 
